@@ -7,12 +7,12 @@ export default function Contact() {
     {
       name: "Gmail",
       icon: "✉️",
-      url: "mailto:your-email@gmail.com",
+      url: "mailto:pavanpadmata2002@gmail.com",
     },
     {
       name: "LinkedIn",
       icon: "💼",
-      url: "https://linkedin.com",
+      url: "https://linkedin.com/in/pavanpadamata",
     },
     {
       name: "Telegram",
@@ -27,7 +27,7 @@ export default function Contact() {
     {
       name: "Fiverr",
       icon: "⭐",
-      url: "https://fiverr.com",
+      url: "https://fiverr.com/pavanpadmata",
     },
   ]
 
