@@ -17,12 +17,12 @@ export default function Contact() {
     {
       name: "Telegram",
       icon: "✈️",
-      url: "https://telegram.me/yourhandle",
+      url: "https://t.me/pavan_padamata",
     },
     {
       name: "Upwork",
       icon: "💻",
-      url: "https://upwork.com",
+      url: "https://www.upwork.com/freelancers/~01b1fb0566a08f0579?mp_source=share",
     },
     {
       name: "Fiverr",
